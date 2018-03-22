@@ -1,0 +1,5 @@
+C:\Users\johnh\AppData\Local\AmosDevelopment\Amos\25\Plugins\Amos-MergeEstimatesTable.dll
+C:\Users\johnh\AppData\Local\AmosDevelopment\Amos\25\Plugins\Amos-MergeEstimatesTable.pdb
+C:\Users\johnh\Desktop\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.vbprojResolveAssemblyReference.cache
+C:\Users\johnh\Desktop\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.dll
+C:\Users\johnh\Desktop\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.pdb
