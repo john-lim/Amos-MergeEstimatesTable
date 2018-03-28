@@ -81,7 +81,7 @@ Public Class CustomCode
         'References
         debug.PrintX("</table><h3>References</h3>Significance of Correlations:<br>*** p < 0.001<br>** p < 0.010<br>* p < 0.050<br>&#x271D; p < 0.100<br>")
         debug.PrintX("<p>If you would like to cite this tool directly, please use the following:")
-        debug.PrintX("Gaskin, J. & Lim, J. (2018), ""Merge SRW Tables"", AMOS Plugin. <a href=\""http://statwiki.kolobkreations.com"">Gaskination's StatWiki</a>.</p>")
+        debug.PrintX("Gaskin, J. & Lim, J. (2018), ""Merge SRW Tables"", AMOS Plugin. <a href=""http://statwiki.kolobkreations.com"">Gaskination's StatWiki</a>.</p>")
 
         'Write style And close
         debug.PrintX("<style>table{border:1px solid black;border-collapse:collapse;}td{border:1px solid black;text-align:center;padding:5px;}th{text-weight:bold;padding:10px;border: 1px solid black;}</style>")

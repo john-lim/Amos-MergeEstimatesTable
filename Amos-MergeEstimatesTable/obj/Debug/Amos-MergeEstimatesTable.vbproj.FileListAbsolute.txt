@@ -3,3 +3,6 @@ C:\Users\johnh\AppData\Local\AmosDevelopment\Amos\25\Plugins\Amos-MergeEstimates
 C:\Users\johnh\Desktop\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.vbprojResolveAssemblyReference.cache
 C:\Users\johnh\Desktop\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.dll
 C:\Users\johnh\Desktop\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.pdb
+C:\Users\johnh\Amos\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.vbprojResolveAssemblyReference.cache
+C:\Users\johnh\Amos\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.dll
+C:\Users\johnh\Amos\Amos-MergeEstimatesTable\Amos-MergeEstimatesTable\obj\Debug\Amos-MergeEstimatesTable.pdb
